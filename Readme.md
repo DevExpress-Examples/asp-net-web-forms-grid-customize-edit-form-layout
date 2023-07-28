@@ -12,7 +12,7 @@
 <!-- default file list end -->
 # ASPxGridView - How to adjust Edit Form layout using the EditFormLayoutProperties property
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t285676/)**
+**[[Run Online]](https://codecentral.devexpress.com/128533294/)**
 <!-- run online end -->
 
 
