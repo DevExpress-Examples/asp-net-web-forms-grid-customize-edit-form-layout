@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to customize the edit form layout
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t285676/)**
+**[[Run Online]](https://codecentral.devexpress.com/128533294/)**
 <!-- run online end -->
 
 This example demonstrates how to use the grid's [EditFormLayoutProperties](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView.EditFormLayoutProperties) property to customize the edit form layout and specify an editor's visibility based on a condition.
